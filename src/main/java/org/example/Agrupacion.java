@@ -15,14 +15,23 @@ public class Agrupacion {
     }
 
     public void agregarMiembro(Persona persona) {
+        miembros.add(persona);
+        System.out.println("Persona agregada correctamente");
+
         // TODO: Completar lógica método
     }
 
     public void eliminarMiembro(Persona persona) {
+         miembros.remove(persona);
+        System.out.println("Persona eliminada correctamente");
         // TODO: Completar lógica método
     }
 
     public void mostrarInformacion() {
+        System.out.println("Nombre: " + nombreGrupo);
+        System.out.println("Miembros: " + miembros);
+        System.out.println("Categoria principal: " + categoriaPrincipal);
+
         // TODO: Completar lógica método (detalles del grupo, su categoría y recorrer la lista de miembros)
     }
 
