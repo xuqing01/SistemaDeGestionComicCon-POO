@@ -2,7 +2,7 @@
 
  En este laboratorio aplicarás conceptos de **herencia, asociaciones, polimorfismo y encapsulamiento**, además de trabajar con un flujo de desarrollo basado en Git y GitHub.
 
-## 📅 Fechas Clave y Entregasaaaa
+## 📅 Fechas Clave y Entregasaaaa      EE
 * **Fecha de la actividad:** Miércoles 27 de Mayo de 2026.
 * **Plazo máximo de entrega:** Miércoles 27 de Mayo de 2026 a las 20:00 hrs.
 * **Formato:** Repositorio de GitHub (Fork personal) con el código completo y el diagrama en la carpeta correspondiente.
