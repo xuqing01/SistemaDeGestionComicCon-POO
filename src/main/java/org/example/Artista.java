@@ -12,6 +12,11 @@ public class Artista extends Persona implements Interactivable {
 
     @Override
     public void mostrarInformacion() {
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Pais: " + paisOrigen);
+        System.out.println("edad: " + edad);
+        System.out.println("Marca Tablet: " + marcaTableta);
+        System.out.println("Artbooks Publicados: " + cantidadArtbooksPublicados);
         // TODO: Completar lógica método (imprimir datos base de Persona y específicos de Artista)
     }
 
