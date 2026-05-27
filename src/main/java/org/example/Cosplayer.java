@@ -12,6 +12,8 @@ public class Cosplayer extends Persona implements Interactivable {
 
     @Override
     public void mostrarInformacion() {
+        System.out.println(" ");
+        System.out.println("Informacion del Cosplayer: ");
         System.out.println("Nombre: " + nombre);
         System.out.println("Pais: " + paisOrigen);
         System.out.println("edad: " + edad);

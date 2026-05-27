@@ -12,6 +12,8 @@ public class Categoria {
     }
 
     public void mostrarInformacion() {
+        System.out.println(" ");
+        System.out.println("Informacion del Categoria: ");
         System.out.println("Nombre: " + nombre);
         System.out.println("Cupos Maximos: " + numeroCuposMaximos);
         System.out.println("Popularidad estimada: " + numeroCuposMaximos);
