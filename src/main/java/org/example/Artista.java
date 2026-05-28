@@ -22,6 +22,10 @@ public class Artista extends Persona implements Interactivable {
 
     @Override
     public void realizarPresentacion() {
+        System.out.println("Presentacion de  " + nombre );
+        System.out.println("Con pais de origen de  "+ paisOrigen);
+        System.out.println("Ilustraciones hechas con la tablet marca "+ marcaTableta);
+        System.out.println("Su cantidad de Artbook publicados: " + cantidadArtbooksPublicados);
         // TODO: Completar lógica método (simular presentación, mostrar portafolio y artbooks)
     }
 
